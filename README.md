@@ -11,9 +11,9 @@
 </p>
 
 - 🏢 I'm a Software Engineer and training at iti (full stack .net development).
-- 
+
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 
+ 
 - 🌱 I’m currently learning **Angular - .net core**
 
 - 💬 Ask me about **flutter/javascript/c#**
