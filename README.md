@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed elkordy</h1>
 <h3 align="center">software engineering from Egypt</h3>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamed8fci&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed8fci" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed8fci&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed8fci" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed8fci" alt="mohamed8fci" /></a> </p>
 <p align="center">
