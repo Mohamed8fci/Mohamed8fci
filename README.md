@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed elkordy</h1>
-<h3 align="center">Junior .NEt  from Egypt</h3>
+<h3 align="center">Junior .Net  from Egypt</h3>
 
 <img width="250" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
