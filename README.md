@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed elkordy</h1>
-<h3 align="center">software engineering from Egypt</h3>
+<h3 align="center">Junior .NEt  from Egypt</h3>
 
 <img width="250" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
@@ -16,7 +16,7 @@
  
 - 🌱 I’m currently learning **Angular - .net core**
 
-- 💬 Ask me about **flutter/javascript/c#**
+- 💬 Ask me about **.Net Core**
 
 - 📫 How to reach me **mohamedelkordy764@gmail.com**
 
